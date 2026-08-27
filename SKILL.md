@@ -1,11 +1,18 @@
 ---
 name: xiaohe-poster-design-skill
 description: Use when creating retro-grain portrait, fan, or editorial collage posters from user-supplied photos.
+license: MIT
 ---
 
 # Xiaohe poster design
 
 Use this skill for a vertical portrait poster, fan editorial collage, or retro-grain identity piece made from user-supplied photos. It always produces a flat composited PNG. It also produces editable SVG typography, layered PNGs, PSD, spec, and manifest; add the complete Chinese-named Photoshop import package only when the user explicitly requests it after being asked.
+
+## Agent Skills portability
+
+`SKILL.md` is the portable source of truth. Follow its relative links from the skill root and keep `scripts/`, `references/`, and `assets/` beside it. Do not require Codex, Claude Code, a particular model, or a provider-specific command in order to apply the design rules. The optional `agents/openai.yaml` file is only UI metadata for clients that understand it; other clients may ignore it.
+
+When the host supports the open Agent Skills directory format, install the whole folder in that host's skill directory. When it does not, attach or import the whole folder, instruct the agent to read `SKILL.md`, and preserve the same user-confirmation gates. Rendering and verification additionally require local filesystem access plus Node.js 22+ and npm; without those capabilities, provide the normalized spec and explain that the bundled renderer could not run instead of pretending that a PNG was generated.
 
 ## Core rule
 
