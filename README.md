@@ -1,5 +1,9 @@
 # Xiaohe Poster Design Skill
 
+<p align="center">
+  <img src="assets/readme-poster-yeji.png" alt="Xiaohe poster design 示例海报" width="600">
+</p>
+
 一个遵循 [Agent Skills 开放格式](https://agentskills.io/specification) 的跨智能体海报设计 skill，用于制作复古颗粒感黑白人像、粉丝海报和编辑风格拼贴海报。
 
 核心规范只有一个：`SKILL.md`。Codex、Claude Code 以及其它兼容 Agent Skills 的客户端可以共享同一份规范；不兼容该格式的客户端也可以通过手动导入使用。详见 [PORTABILITY.md](PORTABILITY.md)。
