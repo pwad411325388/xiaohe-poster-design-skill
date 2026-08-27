@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "canvas": { "width": 1200, "height": 1800, "background": "#090909" },
+  "sources": [
+    { "id": "main", "path": "main.png", "role": "main" },
+    { "id": "aux-1", "path": "aux-1.png", "role": "auxiliary" },
+    { "id": "aux-2", "path": "aux-2.png", "role": "auxiliary" },
+    { "id": "aux-3", "path": "aux-1.png", "role": "auxiliary" },
+    { "id": "aux-4", "path": "aux-2.png", "role": "auxiliary" }
+  ],
+  "protectedRegions": [
+    { "id": "face", "x": 0.32, "y": 0.18, "width": 0.36, "height": 0.32 }
+  ],
+  "copy": {
+    "subject": "XIAOHE",
+    "headline": "WHO IS XIAOHE?",
+    "subtitle": "ENTER THE SIGNAL",
+    "textIslands": {
+      "island1": ["ENTER THE WILD", "CONTROL THE FRAME", "MOVE WITH INTENT"],
+      "island2": ["ENTER THE SIGNAL", "FUTURE", "YOURS"],
+      "island3": ["XIAOHE", "IS", "CALLING"],
+      "island4": ["XIAOHE", "PORTRAIT", "ARCHIVE"],
+      "island5": ["REAL PEOPLE.", "REAL STORIES.", "NEW SIGNAL.", "WE RISE."]
+    },
+    "micro": ["ARCHIVE 01"],
+    "footer": "THE FIRST FULL ISSUE"
+  },
+  "style": { "accent": "#29D3B2", "grain": 0.42, "seed": 17 },
+  "layout": { "template": "reference-01", "cutouts": [] },
+  "exports": { "png": true, "svg": true, "psd": true, "layers": true, "photoshopPackage": false }
+}

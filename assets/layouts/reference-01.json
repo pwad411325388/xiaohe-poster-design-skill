@@ -1,0 +1,116 @@
+{
+  "id": "reference-01",
+  "mode": "reference-locked",
+  "text": {
+    "textIslandBodyColor": "#ECEDE8",
+    "headline": {
+      "opacity": 0.88,
+      "color": "#E8EAE6",
+      "fontFamily": "Bahnschrift, Arial Narrow, Arial, sans-serif",
+      "fontWeight": 800,
+      "trackingEm": 0,
+      "minGap": 0.020,
+      "who": { "x": 0.032, "y": 0.063, "width": 0.377, "height": 0.081, "fontSizeFactor": 0.135, "scaleX": 0.80, "scaleY": 1.00, "skewX": 0 },
+      "is": {
+        "text": "IS",
+        "placement": "after-who-visible-right",
+        "fontSizeFactor": 0.135,
+        "scaleX": 0.75,
+        "scaleY": 0.45,
+        "skewX": -8,
+        "targetInkAspect": 1.82,
+        "baselineOffset": 0.002
+      },
+      "subject": {
+        "x": 0.030,
+        "y": 0.166,
+        "width": 0.543,
+        "height": 0.082,
+        "suffix": "?",
+        "fontSizeFactor": 0.133333,
+        "scaleX": 0.80,
+        "scaleY": 1.00,
+        "skewX": 0,
+        "minScaleX": 0.74,
+        "maxScaleX": 0.80
+      }
+    },
+    "topLabel": { "x": 0.030, "y": 0.019, "width": 0.383, "height": 0.027, "widthMode": "content-plus-padding" },
+    "identity": { "x": 0.731, "y": 0.025, "width": 0.239, "height": 0.059 },
+    "info": { "x": 0.688, "y": 0.111, "width": 0.283, "height": 0.047, "rightMargin": 0.015, "widthMode": "content-min-near-edge" },
+    "islands": {
+      "island1": {
+        "x": 0.050,
+        "baselines": [0.282, 0.301, 0.318],
+        "fontSizeFactors": [0.018, 0.015, 0.013],
+        "scaleY": 1.00,
+        "opacity": 0.96,
+        "accentLineIndex": 0
+      },
+      "island2": {
+        "x": 0.050,
+        "baselines": [0.551, 0.575, 0.596],
+        "underlineY": 0.605,
+        "fontSizeFactors": [0.024, 0.020, 0.020],
+        "scaleY": 0.84,
+        "opacity": 0.96,
+        "underlinePadding": 0.014,
+        "underlineMaxWidth": 0.22,
+        "accentLineIndex": 0
+      },
+      "island3": {
+        "x": 0.411,
+        "baselines": [0.546, 0.570, 0.591],
+        "underlineY": 0.600,
+        "fontSizeFactors": [0.024, 0.020, 0.020],
+        "scaleY": 0.84,
+        "opacity": 0.96,
+        "underlinePadding": 0.014,
+        "underlineMaxWidth": 0.115,
+        "accentLineIndex": 0
+      },
+      "island4": {
+        "x": 0.931,
+        "y": 0.433,
+        "lineOffsets": [0.000, 0.016, 0.032],
+        "fontSizeFactors": [0.018, 0.012, 0.012],
+        "orientation": "vertical-90",
+        "opacity": 0.96,
+        "accentLineIndex": 0
+      },
+      "island5": {
+        "x": 0.935,
+        "rightRuleX": 0.951,
+        "minRightGap": 0.016,
+        "baselines": [0.824, 0.845, 0.866, 0.887],
+        "fontSizeFactors": [0.014, 0.014, 0.014, 0.014],
+        "align": "end",
+        "opacity": 0.96,
+        "accentLineIndex": 3
+      }
+    },
+    "footer": { "x": 0.000, "y": 0.933, "width": 1.000, "height": 0.067 }
+  },
+  "cutouts": [
+    {
+      "x": 0.010, "y": 0.364, "width": 0.342, "height": 0.159,
+      "polygon": [[0.047, 0.364], [0.352, 0.401], [0.350, 0.523], [0.010, 0.512]],
+      "sourcePosition": "attention"
+    },
+    {
+      "x": 0.621, "y": 0.257, "width": 0.288, "height": 0.184,
+      "polygon": [[0.678, 0.280], [0.891, 0.257], [0.909, 0.411], [0.621, 0.441]],
+      "sourcePosition": "attention"
+    },
+    {
+      "x": 0.034, "y": 0.614, "width": 0.359, "height": 0.227,
+      "polygon": [[0.034, 0.690], [0.285, 0.614], [0.393, 0.687], [0.128, 0.841]],
+      "sourcePosition": "attention"
+    },
+    {
+      "x": 0.520, "y": 0.569, "width": 0.446, "height": 0.189,
+      "polygon": [[0.593, 0.569], [0.966, 0.589], [0.957, 0.758], [0.520, 0.680]],
+      "sourcePosition": "attention"
+    }
+  ]
+}

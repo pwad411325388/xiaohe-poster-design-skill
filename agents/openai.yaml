@@ -1,0 +1,5 @@
+interface:
+  display_name: "Xiaohe Poster Design"
+  short_description: "Create editable retro-grain portrait posters"
+  brand_color: "#29D3B2"
+  default_prompt: "Use $xiaohe-poster-design-skill to turn my portraits and copy into an editable retro-grain poster."

@@ -1,0 +1,7 @@
+{
+  "display": { "family": "Impact", "path": "C:/Windows/Fonts/impact.ttf" },
+  "latin": { "family": "Arial", "path": "C:/Windows/Fonts/arial.ttf" },
+  "latinBold": { "family": "Arial", "path": "C:/Windows/Fonts/arialbd.ttf" },
+  "cjk": { "family": "Microsoft YaHei", "path": "C:/Windows/Fonts/msyh.ttc" },
+  "cjkBold": { "family": "Microsoft YaHei", "path": "C:/Windows/Fonts/msyhbd.ttc" }
+}
